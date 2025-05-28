@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👨‍💻 Yuri Marchiori
 
-<!--
-**yuri-marchiori/yuri-marchiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷🇮🇹 Brazilian-Italian with 12+ years of experience in IT, B2B support, and global operations — now transitioning into **IT Project Management**. I’m passionate about solving problems, connecting people, and translating between technical and business worlds.
 
-Here are some ideas to get you started:
+🌍 Based in Petrópolis/RJ, Brazil — working globally across EMEA, APAC, NAM, and LAM.  
+🎯 Looking for roles as **Project Coordinator** or **Junior Project Manager**, combining my tech background with strong communication and a results-driven mindset.  
+📈 Currently studying PMP and PSM I to take my project skills to the next level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Work Experience
+
+- **Customer Operations Associate** – Orange Business Services *(2021 - Present)*  
+  Leading technical coordination and crisis management for global B2B clients.  
+  Bridging communication gaps across English and Spanish-speaking teams.  
+  Driving service improvements and managing scheduled impacts.
+
+- **Senior Service Desk Analyst** – Orange *(2014 - 2021)*  
+  Managed workload distribution and team performance.  
+  Analyzed supplier KPIs and created continuous improvement plans.
+
+- **Law Intern** – Rio de Janeiro Court of Justice *(2018 - 2020)*  
+  Drafted rulings, judgments, and legal documents.  
+  Maintained spreadsheets and databases for legal ops.
+
+- **Service Desk Analyst** – Orange *(2013 - 2014)*  
+  Provided urgent B2B support in Portuguese, Spanish, and English.  
+  Built long-term client relationships with multilingual communication.
+
+---
+
+## 🎓 Education
+
+- Telecommunications Networks Technician – UCP  
+- Bachelor of Laws – UCP  
+- Postgraduate in Database – Fasul  
+- Postgraduate in Data Science & Big Data – Fasul  
+
+---
+
+## 📜 Certifications
+
+
+- ITIL 4 Foundation (2021) 
+- ITIL 4 Business Relationship Management (2024) 
+- Scrum Fundamentals Certified (2023) 
+- AWS Cloud Practitioner (2024)  
+
+
+
+---
+
+## 🚀 Skills Snapshot
+
+- **ITSM & Customer Success**: ITIL, SLA management, customer satisfaction & retention
+- **Project Management**: Agile (Scrum, Kanban), Waterfall, PMBOK, Hybrid
+- **Tools**:  
+  `Jira` • `Confluence` • `Trello` • `Notion` • `Asana` • `MS Project`
+
+---
+
+## 🌐 Languages
+
+- 🇧🇷 Portuguese: Native  
+- 🇺🇸 English: Intermediate (B1 – improving)  
+- 🇪🇸 Spanish: Intermediate (B1 – improving)  
+
+---
+
+## 🔗 Let’s connect!
+
+[![LinkedIn](https://img.shields.io/badge/Yuri%20Marchiori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurimarchiori)
+
+---
+
+### ⚡ Fun Fact
+
+> I’ve been a law intern, a multilingual support analyst, and now I’m on a mission to become a top-tier Project Manager — combining technical skills, global experience, and a passion for structure and results.
+
+
