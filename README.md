@@ -31,14 +31,14 @@
 
 ## 📊 Projects Contributions
 
-•	Led and coordinated global technical teams (EMEA, APAC, NAM, LAM) in operational projects (e.g.: Site Migration, POP closure, Backbone activity) impacting customers, ensuring SLA compliance and risk management.
-•	Facilitated crisis meetings (WAR room) and service reviews (RCA Document) to drive continuous improvement, aligned with Agile and ITIL methodologies.
-•	Planned and coordinated scheduled activities affecting customer connectivity, focusing on stakeholder communication and management.
-•	Acted as a multilingual liaison (Portuguese, English, and Spanish) to ensure alignment between technical teams and clients.
-•	Analyzed supplier performance and implemented actions to optimize processes and service quality.
-•	Experienced in organizing and managing data to support decision-making in administrative environments.
+- Led and coordinated global technical teams (EMEA, APAC, NAM, LAM) in operational projects (e.g.: Site Migration, POP closure, Backbone activity) impacting customers, ensuring SLA compliance and risk management.
+- Facilitated crisis meetings (WAR room) and service reviews (RCA Document) to drive continuous improvement, aligned with Agile and ITIL methodologies.
+- Planned and coordinated scheduled activities affecting customer connectivity, focusing on stakeholder communication and management.
+- Acted as a multilingual liaison (Portuguese, English, and Spanish) to ensure alignment between technical teams and clients.
+- Analyzed supplier performance and implemented actions to optimize processes and service quality.
+- Experienced in organizing and managing data to support decision-making in administrative environments.
 
-**Currently applying Agile knowledge as a Scrum Master in simulated projects and studying for PMP and PSM I certifications to strengthen expertise in Project Management.
+**Currently applying Agile knowledge as a Scrum Master in simulated projects and studying for PMP and PSM I certifications to strengthen expertise in Project Management.**
 
 ---
 ## 🎓 Education
