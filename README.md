@@ -7,6 +7,10 @@
 📈 Currently studying PMP and PSM I to take my project skills to the next level.
 
 
+
+
+
+
 ---
 
 ## 💼 Work Experience
