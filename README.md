@@ -6,6 +6,7 @@
 🎯 Open to roles as **Project Coordinator** or **Junior Project Manager** in **Portugal 🇵🇹** , **Spain 🇪🇸** or other EU countries 🇪🇺, ready to drive results and support project success.
 📈 Currently studying PMP and PSM I to take my project skills to the next level.
 
+
 ---
 
 ## 💼 Work Experience
