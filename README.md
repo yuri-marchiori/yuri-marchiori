@@ -4,7 +4,7 @@
 
 - 🌍 Based in Petrópolis/RJ, Brazil — working globally across EMEA, APAC, NAM, and LAM. 
 - 🎯 Open to roles as **Project Coordinator** or **Junior Project Manager** in **Portugal 🇵🇹** , **Spain 🇪🇸** or other EU countries 🇪🇺, ready to drive results and support project success.
-- 📈 Currently studying PMP and PSM I to take my project skills to the next level.
+- 📈 Currently applying Agile knowledge as a Scrum Master in simulated projects and studying for PMP and PSM I certifications to strengthen expertise in Project Management.
 
 ---
 
@@ -38,7 +38,7 @@
 - Analyzed supplier performance and implemented actions to optimize processes and service quality.
 - Experienced in organizing and managing data to support decision-making in administrative environments.
 
-**Currently applying Agile knowledge as a Scrum Master in simulated projects and studying for PMP and PSM I certifications to strengthen expertise in Project Management.**
+
 
 ---
 ## 🎓 Education
