@@ -4,6 +4,7 @@
 
 🌍 Based in Petrópolis/RJ, Brazil — working globally across EMEA, APAC, NAM, and LAM.  
 🎯 Open to roles as **Project Coordinator** or **Junior Project Manager** in **Portugal 🇵🇹** , **Spain 🇪🇸** or other EU countries 🇪🇺, ready to drive results and support project success.
+
 📈 Currently studying PMP and PSM I to take my project skills to the next level.
 
 ---
