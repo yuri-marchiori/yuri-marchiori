@@ -83,6 +83,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/Yuri%20Marchiori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurimarchiori)
 
+📄 [View My Resume (PDF)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/yuri-marchiori/a4a9910f-6e0e-4be8-a1da-5234242dc150?view=html)
+
 ---
 
 ### ⚡ Fun Fact
