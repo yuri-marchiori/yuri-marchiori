@@ -2,15 +2,9 @@
 
 🇧🇷🇮🇹 Brazilian-Italian with 12+ years of experience in IT, B2B support, and global operations — now transitioning into **IT Project Management**. I’m passionate about solving problems, connecting people, and translating between technical and business worlds.
 
-📈 Currently studying PMP and PSM I to take my project skills to the next level.
-🌍 Based in Petrópolis/RJ, Brazil — working globally across EMEA, APAC, NAM, and LAM.  
-🎯 Open to roles as **Project Coordinator** or **Junior Project Manager** in **Portugal 🇵🇹** , **Spain 🇪🇸** or other EU countries 🇪🇺, ready to drive results and support project success.
-
-
-
-
-
-
+- 📈 Currently studying PMP and PSM I to take my project skills to the next level.
+- 🌍 Based in Petrópolis/RJ, Brazil — working globally across EMEA, APAC, NAM, and LAM.  
+- 🎯 Open to roles as **Project Coordinator** or **Junior Project Manager** in **Portugal 🇵🇹** , **Spain 🇪🇸** or other EU countries 🇪🇺, ready to drive results and support project success.
 
 ---
 
