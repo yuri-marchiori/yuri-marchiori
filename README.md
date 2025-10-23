@@ -55,8 +55,11 @@
 
 - ITIL 4 Foundation (2021) 
 - ITIL 4 Business Relationship Management (2024) 
-- Scrum Fundamentals Certified (2023) 
-- AWS Cloud Practitioner (2024)  
+- Scrum Fundamentals Certified (2023)
+- AWS Cloud Practitioner (2024)
+- Professional Scrum Master I (2025)
+- Professional Scrum Master II (2025)
+- Lean Six Sigma (2025)
 
 
 
@@ -74,16 +77,14 @@
 ## 🌐 Languages
 
 - 🇧🇷 Portuguese: Native  
-- 🇺🇸 English: Intermediate (B1 – improving)  
-- 🇪🇸 Spanish: Intermediate (B1 – improving)  
+- 🇺🇸 English: Intermediate (B2 – improving)  
+- 🇪🇸 Spanish: Intermediate (B2 – improving)  
 
 ---
 
 ## 🔗 Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/Yuri%20Marchiori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurimarchiori)
-
-📄 [**View My Europass Resume**](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/yuri-marchiori/a4a9910f-6e0e-4be8-a1da-5234242dc150?view=html)
 
 ---
 
